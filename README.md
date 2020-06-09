@@ -1,5 +1,5 @@
 # is-odd-safe
-is-odd-safe whether a function to check if an integer or bigint is odd using String instead of Number.
+is-odd-safe is a function to check whether an integer or bigint is odd using String instead of Number.
 
 ## Usage
 ```js
